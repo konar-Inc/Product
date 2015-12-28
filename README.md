@@ -1,2 +1,2 @@
 # Product
-Shared lib
+Shared lib test2
